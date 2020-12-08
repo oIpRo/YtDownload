@@ -1,2 +1,2 @@
 # YtDownload
-suitable application to download songs and videos from youtube.
+Suitable application to download songs and videos from youtube.
